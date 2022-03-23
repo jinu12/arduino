@@ -1,12 +1,13 @@
-int myarr[5][5] ={
-  {1 ,2 ,3 ,4 ,5},
-  {6, 7, 8, 9, 10},
-  {11, 12, 13, 14, 15},
-  {16, 17, 18, 19, 20},
-  {21, 22, 23, 24, 25}
-};
+int myarr[5][5] ={0};
 void setup() {
+  int value = 1;
   Serial.begin(9600);
+  for(int row=0;row<5;row++) {
+    for(int i=0;i<5;i++) {
+      myarr[row][i] = value;
+      value++;
+    }
+  }
 }
 
 void loop() {
@@ -23,5 +24,4 @@ void loop() {
     sum = 0;
   }
   Serial.end();
-
 }
