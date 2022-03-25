@@ -70,7 +70,7 @@ int read(void);
 
 void Serial.end(void);
 
-<h3><a href = "https://github.com/jinu12/arduino/blob/main/Serial.md">Serial</a> 예제 보기 </h2>
+<h3><a href = "https://github.com/jinu12/arduino/blob/main/serial/">Serial</a> 예제 보기 </h2>
 
 <h3><a href = "https://github.com/jinu12/arduino/blob/main/for/"> for문</a></h2>
 
