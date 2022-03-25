@@ -28,3 +28,7 @@
   <img width ="%100" alt = "contolled" src= "https://user-images.githubusercontent.com/73889507/159881578-e1d61fab-0347-49df-b3cc-af369aecf9f8.gif">
 
 ### pushPullControl
+  
+  <img width ="%100" alt = "contolled" src= "https://user-images.githubusercontent.com/73889507/160081889-2044d28a-be59-469a-84e2-89e2a3886faf.gif">
+
+### analog
