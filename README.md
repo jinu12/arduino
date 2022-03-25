@@ -10,6 +10,8 @@
 
 <h3><a href = "https://github.com/jinu12/arduino/blob/main/switch/"> switch문
   
+<h3><a href = "https://github.com/jinu12/arduino/blob/main/test/> 아두이노 실험
+  
 <!--   
 <img width="%100" alt='erd' src='https://user-images.githubusercontent.com/73889507/159135823-3fd2d2cf-c9c9-4bb9-9406-9795dcc707c0.png'> -->
   
