@@ -1,5 +1,3 @@
-# arduino
-
 # Serial Bus (직렬 통신)
 
 ## 정의
