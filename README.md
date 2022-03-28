@@ -102,3 +102,7 @@ void Serial.end(void);
   <img width ="%100" alt = "contolled" src= "https://user-images.githubusercontent.com/73889507/160081889-2044d28a-be59-469a-84e2-89e2a3886faf.gif">
 
 ### analog
+
+<img width ="%100" alt = "contolled" src= "https://user-images.githubusercontent.com/73889507/160361469-5d78b302-1281-4ab9-b188-ae7d51563401.gif">
+
+### hr_srExam
