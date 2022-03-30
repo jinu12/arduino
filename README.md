@@ -110,3 +110,7 @@ void Serial.end(void);
 <img width ="%100" alt = "contolled" src= "https://user-images.githubusercontent.com/73889507/160574511-ead75171-98c3-45c5-accc-fda10a2e83c8.jpg">
 
 ### 1602LED
+
+<img width ="%100" alt = "lcd_i2c" src= "https://user-images.githubusercontent.com/73889507/160860806-9c46c047-8ea8-4cfc-b07d-11e5b55a50da.gif">
+
+### lcd_i2c
